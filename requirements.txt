@@ -3,3 +3,6 @@ yfinance
 pandas
 plotly
 matplotlib
+scikit-learn
+scikit
+sklearn
